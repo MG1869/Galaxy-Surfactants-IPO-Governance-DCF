@@ -1,6 +1,6 @@
 # Strategic Financial & Governance Analysis — Galaxy Surfactants Ltd
 
-**ECON/FIN F 315 (Financial Management) Group Assignment**
+**ECON/FIN F315 (Financial Management) Group Assignment**
 Birla Institute of Technology and Science (BITS), Pilani
 Nov 2025 – Dec 2025
 
